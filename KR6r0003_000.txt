@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 迦丁比丘說當來變經
+#+DATE: 2015-08-30 21:55:00.031223
+#+PROPERTY: JUAN 0
