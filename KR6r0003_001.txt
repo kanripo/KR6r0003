@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:54:59.825523
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:05
 #+TITLE: 迦丁比丘說當來變經
 #+PROPERTY: CBETA_ID T49n2028
 #+PROPERTY: ID KR6r0003
